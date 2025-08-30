@@ -71,6 +71,7 @@ $result = $conn->query($sql);
   </div>
 </nav>
     <div class="container">
+<p>We are the music makers, And we are the dreamers of dreams.</p>
         <h1 class="mb-4">Users</h1>
         <table class="table table-striped">
             <thead>
